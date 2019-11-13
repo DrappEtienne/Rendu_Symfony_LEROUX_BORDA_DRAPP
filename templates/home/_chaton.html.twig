@@ -1,0 +1,10 @@
+<div class="col col4  ">
+    <div class="card">
+
+        <img class="card-img-top" src="{{ asset("/photo/" ~ nomDuDossier|url_encode ~ "/" ~ fichier.filename|url_encode) }}">
+        <div class="card-body">
+                <h5 class="card-title">{{ (fichier.filename|url_encode) }}</h5>
+            </div>
+
+    </div>
+</div>

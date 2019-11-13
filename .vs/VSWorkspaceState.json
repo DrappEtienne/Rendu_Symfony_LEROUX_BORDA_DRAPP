@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\config",
+    "\\public",
+    "\\public\\photo",
+    "\\src",
+    "\\src\\Controller"
+  ],
+  "SelectedNode": "\\src\\Controller\\HomeController.php",
+  "PreviewInSolutionExplorer": false
+}

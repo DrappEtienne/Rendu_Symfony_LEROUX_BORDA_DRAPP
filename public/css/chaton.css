@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+}
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+
+}
+
+.carouselle{
+    width : 100%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.card{
+    align-items: center;
+    width : 100%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+h1{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    text-align: center;
+}
+.liste{
+    display: flex;
+    justify-content: center;
+}
+#carouselExampleIndicators{
+    width: 50%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+
+}
+.row1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
